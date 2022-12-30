@@ -1,0 +1,14 @@
+.movie-list{ 
+    margin-left: -15px
+    
+}
+
+.movie-list{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.movie-list__movie{
+    list-style: none;
+}

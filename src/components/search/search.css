@@ -1,0 +1,12 @@
+.movies__spin{
+    padding: 20px;
+    margin: 10px 700px
+}
+
+.movies__input{
+    text-align: center;
+}
+
+.movies__pagination{
+    text-align: center;
+}
